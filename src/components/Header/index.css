@@ -1,3 +1,7 @@
+.logo-button {
+  background-color: transparent;
+  border: none;
+}
 .nav-header {
   display: flex;
   justify-content: center;
